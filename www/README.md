@@ -1,4 +1,4 @@
-<img src="./www/layoutThumbnail.png" height="150px" width="240px"/>
+<img src="./layoutThumbnail.png" height="150px" width="240px"/>
 #Mars Lander Simulation website
 Build the website that will host the Unity3d simulation of the Guidance Control System (GCS) of a Mars Lander.
 <p>Team: Andrew Danecki, Cody McDaniel, Kody Peters, Johnny Romano, & Chris Romo<br />
