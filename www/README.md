@@ -1,6 +1,6 @@
-<img src="./www/img/001-lander.png" height="150px" width="150px"/>
-#Mars Lander Simulation
-A system that simulates the Guidance Control System (GCS) of a Mars Lander.
+<img src="./www/layoutThumbnail.png" height="150px" width="240px"/>
+#Mars Lander Simulation website
+Build the website that will host the Unity3d simulation of the Guidance Control System (GCS) of a Mars Lander.
 <p>Team: Andrew Danecki, Cody McDaniel, Kody Peters, Johnny Romano, & Chris Romo<br />
 <a href="https://trello.com/marslander">Check the progress on Trello.</a>
 
