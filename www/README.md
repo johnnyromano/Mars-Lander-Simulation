@@ -4,6 +4,7 @@ Build the website that will host the Unity3d simulation of the Guidance Control 
 <a href="https://trello.com/marslander">Check the progress on Trello.</a></p>
 <p>
 #Page Screens
+<br />
 <img src="./layoutThumbnail_index.png" height="150px" width="240px"/>
 <img src="./layoutThumbnail_about.png" height="150px" width="240px"/>
 <img src="./layoutThumbnail_project.png" height="150px" width="240px"/>
