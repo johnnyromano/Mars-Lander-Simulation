@@ -1,4 +1,4 @@
-<img src="./www/img/001-lander.png" height="150px" width="150px"/>
+<img src="./www/img/Screenshot.png" height="350px" width="250px"/>
 #Mars Lander Simulation
 A system that simulates the Guidance Control System (GCS) of a Mars Lander.
 <p>Team: Andrew Danecki, Cody McDaniel, Kody Peters, Johnny Romano, & Chris Romo<br />
